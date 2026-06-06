@@ -1,52 +1,90 @@
-🎮 Atividade Grupo 1 CC1MB — Classificação de Equações
+# 🎮 Atividade Grupo 1 CC1MB — Classificação de Equações
 
-Projeto de Extensão · ODS 4 – Educação de Qualidade
-Gamificação Aplicada à Matemática do Ensino Fundamental / Médio
+> Projeto de Extensão · ODS 4 – Educação de Qualidade  
+> Gamificação Aplicada à Matemática do Ensino Fundamental / Médio
 
+---
 
-📖 Sobre o Projeto
-Jogo educativo interativo desenvolvido na plataforma Wordwall, com o objetivo de tornar o aprendizado de equações algébricas mais dinâmico e envolvente. O jogador deve classificar expressões algébricas entre Equações de 1º Grau e Equações de 2º Grau, arrastando cada cartão para a categoria correta.
-O projeto foi desenvolvido como parte da disciplina Fundamentos de Tecnologia da Computação da Universidade Vila Velha (UVV), alinhado ao ODS 4 da ONU — Educação de Qualidade.
+## 📖 Sobre o Projeto
 
-🕹️ Como Jogar
-Acesse o jogo pelo link:
-👉 https://wordwall.net/pt/resource/113769962/atividade-grupo-1-cc1mb
+Jogo educativo interativo desenvolvido na plataforma **Wordwall**, com o objetivo de tornar o aprendizado de equações algébricas mais dinâmico e envolvente. O jogador deve classificar expressões algébricas entre **Equações de 1º Grau** e **Equações de 2º Grau**, arrastando cada cartão para a categoria correta.
 
-Clique em "Começar" para iniciar — o cronômetro será ativado automaticamente.
-Na tela, você verá cartões coloridos com expressões algébricas à esquerda.
-Identifique se cada equação é de 1º Grau ou 2º Grau.
-Arraste cada cartão para a coluna correspondente.
-Ao terminar, clique em "Enviar respostas" para ver sua pontuação.
+O projeto foi desenvolvido como parte da disciplina **Fundamentos de Tecnologia da Computação** da **Universidade Vila Velha (UVV)**, alinhado ao ODS 4 da ONU — Educação de Qualidade.
 
+---
 
-🎯 Objetivo
+## 🌐 Site do Projeto
+
+Acesse a página interativa do jogo hospedada no GitHub Pages:  
+👉 [https://gamificacao-aplicada-a-matematica-d.vercel.app/](https://gamificacao-aplicada-a-matematica-d.vercel.app/)
+
+---
+
+## 🕹️ Como Jogar
+
+Acesse o jogo pelo link:  
+👉 [https://wordwall.net/pt/resource/113769962/atividade-grupo-1-cc1mb](https://wordwall.net/pt/resource/113769962/atividade-grupo-1-cc1mb)
+
+1. Clique em **"Começar"** para iniciar — o cronômetro será ativado automaticamente.
+2. Na tela, você verá cartões coloridos com expressões algébricas à esquerda.
+3. Identifique se cada equação é de **1º Grau** ou **2º Grau**.
+4. **Arraste** cada cartão para a coluna correspondente.
+5. Ao terminar, clique em **"Enviar respostas"** para ver sua pontuação.
+
+---
+
+## 🎯 Objetivo
+
 Classificar corretamente o maior número possível de equações entre:
-CategoriaExemploEquações de 1º GrauX - 2, -9X - 12, 73X - 1279Equações de 2º GrauX², 12X² + 7X, 180X² + 40X
 
-🏆 Sistema de Pontuação
+| Categoria | Exemplo |
+|---|---|
+| Equações de 1º Grau | `X - 2`, `-9X - 12`, `73X - 1279` |
+| Equações de 2º Grau | `X²`, `12X² + 7X`, `180X² + 40X` |
 
-✅ Cada resposta correta = 1 ponto
-📊 Pontuação máxima: 20/20
-⏱️ O tempo de conclusão também é registrado ao final
+---
 
+## 🏆 Sistema de Pontuação
 
-👥 Equipe
-NomeMateus Feregueti FonsecaArtur Nunes FerreiraMatheus Correia FerreiraFlávio Pezzin XimenesRicco de Nadai AnhoqueIsadora Pelissari RibeiroFrancisco de Vasconcellos Gomes Amadeo
-Professor: Alessandro Bertolani Oliveira
-Turma: CC1MB · Universidade Vila Velha (UVV)
+- ✅ Cada resposta correta = **1 ponto**
+- 📊 Pontuação máxima: **20/20**
+- ⏱️ O tempo de conclusão também é registrado ao final
 
-🛠️ Tecnologias Utilizadas
+---
 
-Wordwall — plataforma de criação de jogos educativos
-Template: Classificação em grupos
+## 👥 Equipe
 
+| Nome |
+|---|
+| Mateus Feregueti Fonseca |
+| Artur Nunes Ferreira |
+| Matheus Correia Ferreira |
+| Flávio Pezzin Ximenes |
+| Ricco de Nadai Anhoque |
+| Isadora Pelissari Ribeiro |
+| Francisco de Vasconcellos Gomes Amadeo |
 
-📚 Conteúdo Abordado
+**Professor:** Alessandro Bertolani Oliveira  
+**Turma:** CC1MB · Universidade Vila Velha (UVV)
 
-Equações do 1º Grau
-Equações do 2º Grau
-Reconhecimento e classificação de expressões algébricas
+---
 
+## 🛠️ Tecnologias Utilizadas
 
-📄 Licença
-Este projeto está sob a licença MIT.
+- [Wordwall](https://wordwall.net) — plataforma de criação de jogos educativos
+- Template: **Classificação em grupos**
+- **HTML/CSS** — página interativa hospedada via GitHub Pages
+
+---
+
+## 📚 Conteúdo Abordado
+
+- Equações do 1º Grau
+- Equações do 2º Grau
+- Reconhecimento e classificação de expressões algébricas
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT](LICENSE).
